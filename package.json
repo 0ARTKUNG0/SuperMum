@@ -24,7 +24,7 @@
     "eslint-plugin-vue": "^9.17.0",
     "jsdom": "^22.1.0",
     "prettier": "^3.0.3",
-    "vite": "^7.3.1",
-    "vitest": "^4.0.18"
+    "vite": "^6.0.0",
+    "vitest": "^3.0.0"
   }
 }
